@@ -1,0 +1,3 @@
+C:/Users/Nihal Mohan/Desktop/New folder/C++/CPlusPlus_3rdSem/cmake-build-debug/CMakeFiles/CPlusPlus_3rdSem.dir
+C:/Users/Nihal Mohan/Desktop/New folder/C++/CPlusPlus_3rdSem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nihal Mohan/Desktop/New folder/C++/CPlusPlus_3rdSem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
